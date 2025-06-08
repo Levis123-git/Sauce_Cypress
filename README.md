@@ -93,6 +93,8 @@ Certifique-se de ter instalado:
 
 [Teste De Login](https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069)
 
+[Teste De Copmra](https://github.com/Levis123-git/Sauce_Cypress/issues/3#issue-3128626705).
+
     
     
 
