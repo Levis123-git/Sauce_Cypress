@@ -93,21 +93,22 @@ Certifique-se de ter instalado:
     
     ### 🖼️ Evidência de Testes
 
-    <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/178955690/452812845-ac4ee76b-9c73-42cd-ba12-ff31d410b9ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MTA1NTUsIm5iZiI6MTc0OTQxMDI1NSwicGF0aCI6Ii8xNzg5NTU2OTAvNDUyODEyODQ1LWFjNGVlNzZiLTljNzMtNDJjZC1iYTEyLWZmMzFkNDEwYjllYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwOFQxOTE3MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGY3MjE0MzE0NjU0ZDNhNGNlN2RlY2RiNDQzOTgwYTI5NTE0ZTk4M2NmNTE5MDEyMGQxOTczYTNjMmZkZTlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bxRtEQocEF9M0pIhdjHD6p4zlcoWJC4VBj5FUBLbeEY" alt="Testes passando no console" width="800">
-  <br>
-  <em>Execução bem-sucedida dos Teste De Login</em>
-</p>
-   
+    <h3 align="center">🖼️ Evidências de Testes</h3>
 
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/178955690/452812876-ca416ef4-fbbb-4f53-83ce-562b83329649.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MTA1MDEsIm5iZiI6MTc0OTQxMDIwMSwicGF0aCI6Ii8xNzg5NTU2OTAvNDUyODEyODc2LWNhNDE2ZWY0LWZiYmItNGY1My04M2NlLTU2MmI4MzMyOTY0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwOFQxOTE2NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05M2M5NzMxMjMyMmRiNjYzOTc2NGJlMjFkMjA2OWJlMTc0ZmUyMGVlMTIyNGFkYjBmNWI5OGRhZmM5MGE1MWQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NruDvUdA6VxvyDFMHen3GFDXrTkQi5c2KUqhGisDQPw" alt="Testes passando no console" width="800">
-  <br>
-  <em>Execução bem-sucedida dos Teste De Compra</em>
-</p>
-   
-    
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/178955690/452812845-ac4ee76b-9c73-42cd-ba12-ff31d410b9ec.png" alt="Teste de Login" width="400">
+    <p><em>Execução bem-sucedida do Teste de Login</em></p>
+  </div>
+
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/178955690/452812876-ca416ef4-fbbb-4f53-83ce-562b83329649.png" alt="Teste de Compra" width="400">
+    <p><em>Execução bem-sucedida do Teste de Compra</em></p>
+  </div>
+
+</div>
+
 
 ## 📦 Dependências Principais
 
