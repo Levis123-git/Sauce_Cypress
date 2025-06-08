@@ -1,0 +1,7 @@
+{
+  "name": "cypress_automation",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "cypress": "14.4.1"
+  }
+}
