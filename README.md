@@ -66,13 +66,13 @@ Certifique-se de ter instalado:
 	-  Preenche os dados de login válidos e verifica a mensagem de sucesso.
 	-  Garante que o usuário foi redirecionado corretamente.
         
--   **Não deve realizar Login com Senha incorreta **:    
+    **Não deve realizar Login com Senha incorreta **:    
 	-  Tenta logar com senha incorreta e valida a mensagem de erro exibida.
 
 	**Não deve realizar Login com usuario incorreto **:    
 	-  Tenta logar com email incorreta e valida a mensagem de erro exibida.
       
--   **Não deve logar com dados em branco**:
+  **Não deve logar com dados em branco**:
 	 - Tenta logar sem preecnher credenciais e valida a mensagem obrigatóriedade dos campos.
   - 
 ### Testes de Compra
