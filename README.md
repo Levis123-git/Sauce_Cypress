@@ -96,7 +96,7 @@ Certifique-se de ter instalado:
 ![Screenshot da execução](https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069.png)
 
 <p align="center">
-  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/3#issue-3128626705.png" alt="Testes passando no console" width="800">
+  <img src="https://private-user-images.githubusercontent.com/178955690/452812876-ca416ef4-fbbb-4f53-83ce-562b83329649.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MTA1MDEsIm5iZiI6MTc0OTQxMDIwMSwicGF0aCI6Ii8xNzg5NTU2OTAvNDUyODEyODc2LWNhNDE2ZWY0LWZiYmItNGY1My04M2NlLTU2MmI4MzMyOTY0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwOFQxOTE2NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05M2M5NzMxMjMyMmRiNjYzOTc2NGJlMjFkMjA2OWJlMTc0ZmUyMGVlMTIyNGFkYjBmNWI5OGRhZmM5MGE1MWQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NruDvUdA6VxvyDFMHen3GFDXrTkQi5c2KUqhGisDQPw" alt="Testes passando no console" width="800">
   <br>
   <em>Execução bem-sucedida dos Teste De Compra</em>
 </p>
