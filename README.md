@@ -91,7 +91,7 @@ Certifique-se de ter instalado:
     
     ### 📹 Demonstração
 
-[Teste Automatizado - Evidência em Vídeo](https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069)
+[Teste De Login](https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069)
 
     
     
