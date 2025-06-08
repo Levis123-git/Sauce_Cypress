@@ -66,10 +66,10 @@ Certifique-se de ter instalado:
 	-  Preenche os dados de login válidos e verifica a mensagem de sucesso.
 	-  Garante que o usuário foi redirecionado corretamente.
         
-    **Não deve realizar Login com Senha incorreta **:    
+-    **Não deve realizar Login com Senha incorreta **:    
 	-  Tenta logar com senha incorreta e valida a mensagem de erro exibida.
 
-	**Não deve realizar Login com usuario incorreto **:    
+-	**Não deve realizar Login com usuario incorreto **:    
 	-  Tenta logar com email incorreta e valida a mensagem de erro exibida.
       
   **Não deve logar com dados em branco**:
@@ -81,7 +81,7 @@ Certifique-se de ter instalado:
 	-  Insere item no carrinho e preenche os dados corretamente
 	-  Garante que o usuário foi redirecionado corretamente.
         
-  	**Não deve Realizar compra com dados em branco **:    
+ - 	**Não deve Realizar compra com dados em branco **:    
 	-  Garante que sistema retorna mensagem de obrigatoriedade de credenciais ao tentar comprar sem preenche-las.
       
 -   **Deve Remover itens do carrinho**:
