@@ -92,13 +92,13 @@ Certifique-se de ter instalado:
     ### 📹 Demonstração
     
 <p align="center">
-  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069" alt="Testes passando no console" width="800">
+  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069.png" alt="Testes passando no console" width="800">
   <br>
   <em>Execução bem-sucedida dos Teste De Login</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/3#issue-3128626705" alt="Testes passando no console" width="800">
+  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/3#issue-3128626705.png" alt="Testes passando no console" width="800">
   <br>
   <em>Execução bem-sucedida dos Teste De Compra</em>
 </p>
