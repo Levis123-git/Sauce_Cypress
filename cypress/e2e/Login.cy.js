@@ -7,11 +7,6 @@ describe('Login', () => {
   })
 
   afterEach(() => {
-    // Exemplo: capturar screenshot em caso de falha
-    if (this.currentTest.state === 'failed') {
-      cy.screenshot(); // ou cy.screenshot(this.currentTest.title)
-    }
-
     // Exemplo: limpar localStorage/sessionStorage se necessário
     cy.clearLocalStorage();
     cy.window().then((win) => win.sessionStorage.clear());

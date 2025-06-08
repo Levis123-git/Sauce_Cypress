@@ -6,6 +6,6 @@ module.exports = {
 
     viewPortWidth:1920,
     viewPortHeight:1080,
-
+    
   },
 };
