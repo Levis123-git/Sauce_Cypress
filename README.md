@@ -90,12 +90,19 @@ Certifique-se de ter instalado:
 			  
     
     ### 📹 Demonstração
-
-[Teste De Login](https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069)
-
-[Teste De Compra](https://github.com/Levis123-git/Sauce_Cypress/issues/3#issue-3128626705).
-
     
+<p align="center">
+  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/1#issue-3128621069" alt="Testes passando no console" width="800">
+  <br>
+  <em>Execução bem-sucedida dos Teste De Login</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Levis123-git/Sauce_Cypress/issues/3#issue-3128626705" alt="Testes passando no console" width="800">
+  <br>
+  <em>Execução bem-sucedida dos Teste De Compra</em>
+</p>
+   
     
 
 ## 📦 Dependências Principais
