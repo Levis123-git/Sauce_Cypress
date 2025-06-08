@@ -72,7 +72,7 @@ Certifique-se de ter instalado:
 -	**Não deve realizar Login com usuario incorreto **:    
 	-  Tenta logar com email incorreta e valida a mensagem de erro exibida.
       
-  **Não deve logar com dados em branco**:
+ - **Não deve logar com dados em branco**:
 	 - Tenta logar sem preecnher credenciais e valida a mensagem obrigatóriedade dos campos.
   - 
 ### Testes de Compra
@@ -128,7 +128,7 @@ A organização do projeto segue a estrutura Page Objects Model:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias.
 
 ## 📌 Notas Gerais
-Feito por [Levi Alves] (https://github.com/levis123-git) 😊
+Feito por [Levi Alves] (https://levis123-git.github.io/LeviAlves/) 😊
 
 
 
